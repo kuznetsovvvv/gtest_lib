@@ -158,7 +158,7 @@ $ gist REPORT.md
 
 
 
-[![Coverage Status](https://coveralls.io/repos/github/kuznetsovvvv/lab05/badge.svg?branch=main)](https://coveralls.io/github/kuznetsovvvv/lab05?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/kuznetsovvvv/lab05/badge.svg?branch=master)](https://coveralls.io/github/kuznetsovvvv/lab05?branch=master)
 
 
 

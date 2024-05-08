@@ -126,6 +126,16 @@ TEST(Transaction, SimpleTest) {
 }
 ```
 
+---
+
+Также в процессе мы должны добавить gtest в папку third-party, как указано в туториале к лабораторной работе 
+```bash
+Команда:git submodule add https://github.com/google/googletest third-party/gtest
+Команда:cd third-party/gtest && git checkout release-1.8.1 && cd ../..
+```
+
+---
+
 # 3) Создаем сборку для Github Actions 
 Создаем директорию .github/workflows и файл CI.yml:
 

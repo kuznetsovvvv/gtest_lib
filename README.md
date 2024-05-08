@@ -155,6 +155,10 @@ $ gist REPORT.md
 - [Boost.Tests](http://www.boost.org/doc/libs/1_63_0/libs/test/doc/html/)
 - [Catch](https://github.com/catchorg/Catch2)
 
-```
-Copyright (c) 2015-2021 The ISC Authors
-```
+
+
+
+[![Coverage Status](https://coveralls.io/repos/github/kuznetsovvvv/lab05/badge.svg?branch=main)](https://coveralls.io/github/kuznetsovvvv/lab05?branch=main)
+
+
+
